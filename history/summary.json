@@ -4,18 +4,19 @@
     "url": "https://www.luogu.com.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.luogu.com.cn.ico",
     "slug": "luogu",
-    "status": "up",
-    "uptime": "99.81%",
+    "status": "down",
+    "uptime": "99.82%",
     "uptimeDay": "97.53%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1925,
     "timeDay": 1626,
     "timeWeek": 1898,
     "timeMonth": 1925,
     "timeYear": 1925,
     "dailyMinutesDown": {
+      "2022-11-08": 0,
       "2022-11-07": 36
     }
   }
